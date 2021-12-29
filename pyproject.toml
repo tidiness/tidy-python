@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "tidy-python"
+version = "0.1.0"
+description = ""
+authors = ["Nathan Drew <1035229+NaffanDroo@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+pytest-bdd = "^5.0.0"
+pytest-xdist = "^2.5.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
