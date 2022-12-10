@@ -13,6 +13,6 @@ jobs:
         with:
           release-type: python
           package-name: tidy-python
-          extra-files:
-            - README.md
-            - tests/test_tidy_python.py
+          extra-files: |
+            tests/test_tidy_python.py
+            README.md
