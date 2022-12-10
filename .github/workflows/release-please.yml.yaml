@@ -11,5 +11,8 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-type: node
-          package-name: release-please-action
+          release-type: python
+          package-name: tidy-python
+          extra-files: |
+            README.md
+            tests/test_tidy_python.py
