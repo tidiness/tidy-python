@@ -1,3 +1,5 @@
+.PHONY: deps pre-commit test
+
 
 deps: pre-commit
 	@echo "=== Install dependencies ==="
