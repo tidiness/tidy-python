@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          token: ${{RELEASE_TOKEN}}
+          token: ${{secrets.RELEASE_TOKEN}}
           release-type: python
           package-name: tidy-python
           extra-files: |
