@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/NaffanDroo/tidy-python/compare/v0.1.2...v0.1.3) (2022-12-10)
+
+
+### Bug Fixes
+
+* ci tests ([#6](https://github.com/NaffanDroo/tidy-python/issues/6)) ([b7df5c4](https://github.com/NaffanDroo/tidy-python/commit/b7df5c4cea164f1845b455f32db4b6accb521202))
+
 ## [0.1.2](https://github.com/NaffanDroo/tidy-python/compare/v0.1.1...v0.1.2) (2022-12-10)
 
 
