@@ -18,8 +18,10 @@ jobs:
 
       - name: Release please!
         uses: google-github-actions/release-please-action@v3
+        env:
+          APP_TOKEN: ${{ steps.get_workflow_token.outputs.token }}
         with:
-          token: ${{ steps.get_workflow_token.outputs.token }}
+          token: ${{env.APP_TOKEN}}
           release-type: python
           package-name: tidy-python
           extra-files: |
