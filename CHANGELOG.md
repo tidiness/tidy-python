@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.2.0](https://github.com/NaffanDroo/tidy-python/compare/v0.1.4...v0.2.0) (2022-12-11)
+
+
+### Features
+
+* empty main.py ([#10](https://github.com/NaffanDroo/tidy-python/issues/10)) ([edec3c4](https://github.com/NaffanDroo/tidy-python/commit/edec3c421d3069410d2ae06ba4e47714ec675203))
+
+
+### Bug Fixes
+
+* GH token without overriding env ([51eaa45](https://github.com/NaffanDroo/tidy-python/commit/51eaa4532f6d2ca0f819a2266f50ef86a5d08941))
+* Use GH app token ([c448fd1](https://github.com/NaffanDroo/tidy-python/commit/c448fd19c2b520d031854b66fe7cb7ef86d6033b))
+* use unique env var ([ecbef03](https://github.com/NaffanDroo/tidy-python/commit/ecbef036e5f819c6bb3008fece0c7ebb8eda3e41))
+
 ## [0.1.4](https://github.com/NaffanDroo/tidy-python/compare/v0.1.3...v0.1.4) (2022-12-10)
 
 
