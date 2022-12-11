@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.1](https://github.com/NaffanDroo/tidy-python/compare/v0.2.0...v0.2.1) (2022-12-11)
+
+
+### Bug Fixes
+
+* enable python again ([1fd1c44](https://github.com/NaffanDroo/tidy-python/commit/1fd1c44f0aff2bcfd4b515d6df555feccfe2025f))
+* Release and enable mypy ([#15](https://github.com/NaffanDroo/tidy-python/issues/15)) ([d1e7865](https://github.com/NaffanDroo/tidy-python/commit/d1e7865c73fcfcf4db6ac1448c7fa4330c2850d6))
+
 ## [0.2.0](https://github.com/NaffanDroo/tidy-python/compare/v0.1.4...v0.2.0) (2022-12-11)
 
 
