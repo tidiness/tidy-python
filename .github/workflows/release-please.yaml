@@ -9,6 +9,7 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
+      # Using an auth approach from https://michaelheap.com/ultimate-guide-github-actions-authentication/
       - name: Get Token
         id: get_workflow_token
         uses: peter-murray/workflow-application-token-action@v2
@@ -22,8 +23,10 @@ jobs:
           APP_TOKEN: ${{ steps.get_workflow_token.outputs.token }}
         with:
           token: ${{env.APP_TOKEN}}
-          release-type: python
+          release-type: node
           package-name: tidy-python
           extra-files: |
-            tests/test_tidy_python.py
             README.md
+            pyproject.toml
+            src/tidy_python/__init__.py
+            tests/test_tidy_python.py
