@@ -23,10 +23,8 @@ jobs:
           APP_TOKEN: ${{ steps.get_workflow_token.outputs.token }}
         with:
           token: ${{env.APP_TOKEN}}
-          release-type: node
+          release-type: python
           package-name: tidy-python
           extra-files: |
             README.md
-            pyproject.toml
-            src/tidy_python/__init__.py
             tests/test_tidy_python.py
