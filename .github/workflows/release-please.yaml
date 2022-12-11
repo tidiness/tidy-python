@@ -9,9 +9,17 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@v3
+      - name: Get Token
+        id: get_workflow_token
+        uses: peter-murray/workflow-application-token-action@v1
         with:
-          token: ${{secrets.RELEASE_TOKEN}}
+          application_id: ${{ secrets.APPLICATION_ID }}
+          application_private_key: ${{ secrets.APPLICATION_PRIVATE_KEY }}
+
+      - name: Release please!
+        uses: google-github-actions/release-please-action@v3
+        with:
+          token: ${{ steps.get_workflow_token.outputs.token }}
           release-type: python
           package-name: tidy-python
           extra-files: |
