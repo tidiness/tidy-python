@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.3.0](https://github.com/NaffanDroo/tidy-python/compare/v0.2.1...v0.3.0) (2022-12-18)
+
+
+### Features
+
+* **ci:** codeql analysis ([643c7a3](https://github.com/NaffanDroo/tidy-python/commit/643c7a3cd3e15ae369657e5ed3303a9602d2d448))
+* **ci:** coverage for poetry-tests.yaml ([#26](https://github.com/NaffanDroo/tidy-python/issues/26)) ([26e1064](https://github.com/NaffanDroo/tidy-python/commit/26e1064cf2ec0203fafa962cf87e13a2e7bed897))
+* **deps:** enable pre-commit checks ([1567339](https://github.com/NaffanDroo/tidy-python/commit/1567339a69a3a06dd898a4dc4d1894ce7865167a))
+
+
+### Documentation
+
+* add NaffanDroo as a contributor for code, and design ([#25](https://github.com/NaffanDroo/tidy-python/issues/25)) ([125e58f](https://github.com/NaffanDroo/tidy-python/commit/125e58f63463de315816ed25630547921d341195))
+
 ## [0.2.1](https://github.com/NaffanDroo/tidy-python/compare/v0.2.0...v0.2.1) (2022-12-11)
 
 
