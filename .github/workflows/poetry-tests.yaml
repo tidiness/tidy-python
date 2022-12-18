@@ -27,6 +27,6 @@ jobs:
       steps:
         - name: Get Cover 
           uses: orgoro/coverage@v3
-           with:
+          with:
              coverageFile: path/to/coverage.xml
              token: ${{ secrets.GITHUB_TOKEN }}
