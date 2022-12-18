@@ -21,3 +21,8 @@ jobs:
           poetry-version: ${{ matrix.poetry-version }}
       - name: Tests
         run: make -o pre-commit test
+      - name: Get Coveraage
+        uses: orgoro/coverage@v3
+        with:
+          coverageFile: .coverage.xml
+          token: ${{ secrets.GITHUB_TOKEN }}
