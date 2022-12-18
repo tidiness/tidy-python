@@ -11,4 +11,4 @@ pre-commit:
 
 test: deps
 	@echo "=== Running pytest ==="
-	poetry run pytest --cov=src --cov-branch --cov-fail-under=100 tests/
+	poetry run pytest --cov=src --cov-report xml:.coverage.xml --cov-branch --cov-fail-under=100 tests/
