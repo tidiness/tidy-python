@@ -20,7 +20,7 @@ jobs:
         with:
           poetry-version: ${{ matrix.poetry-version }}
       - name: Tests
-        run: make -o pre-commit tests
+        run: make -o pre-commit test
       - name: Get Coveraage
         uses: orgoro/coverage@v3
         with:
