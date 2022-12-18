@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/NaffanDroo/tidy-python/compare/v0.3.0...v0.3.1) (2022-12-18)
+
+
+### Documentation
+
+* add passing badge ([ae43500](https://github.com/NaffanDroo/tidy-python/commit/ae43500176ef8b217806c362dbe5646bffb48f17))
+
 ## [0.3.0](https://github.com/NaffanDroo/tidy-python/compare/v0.2.1...v0.3.0) (2022-12-18)
 
 
