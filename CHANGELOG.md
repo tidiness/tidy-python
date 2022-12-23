@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/NaffanDroo/tidy-python/compare/v0.3.1...v0.4.0) (2022-12-23)
+
+
+### Features
+
+* **ci:** add poetry cache ([#30](https://github.com/NaffanDroo/tidy-python/issues/30)) ([92a860b](https://github.com/NaffanDroo/tidy-python/commit/92a860bba2f9c2803b6020507c091c1731936ec1))
+
 ## [0.3.1](https://github.com/NaffanDroo/tidy-python/compare/v0.3.0...v0.3.1) (2022-12-18)
 
 
