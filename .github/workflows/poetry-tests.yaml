@@ -8,17 +8,16 @@ jobs:
       matrix:
         python-version: ["3.11"]
         poetry-version: ["1.3.0"]
-        os: [ubuntu-18.04, macos-latest, windows-latest]
+        os: [ubuntu-20.04, macos-latest, windows-latest]
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v3
+      - name: Setup poetry
+        run: pipx install poetry==${{ matrix.poetry-version }}
       - uses: actions/setup-python@v4
         with:
           python-version: ${{ matrix.python-version }}
-      - name: Run image
-        uses: abatilo/actions-poetry@v2
-        with:
-          poetry-version: ${{ matrix.poetry-version }}
+          cache: 'poetry'
       - name: Tests
         run: make -o pre-commit test
       - name: Get Coveraage
