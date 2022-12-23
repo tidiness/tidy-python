@@ -13,9 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Setup poetry
-        uses: abatilo/actions-poetry@v2
-        with:
-          poetry-version: ${{ matrix.poetry-version }}
+        run: pipx install poetry==${{ matrix.poetry-version }}
       - uses: actions/setup-python@v4
         with:
           python-version: ${{ matrix.python-version }}
