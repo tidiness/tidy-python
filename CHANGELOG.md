@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/NaffanDroo/tidy-python/compare/v0.4.0...v0.5.0) (2023-05-07)
+
+
+### Features
+
+* renovate commit and pr title as fixes ([#65](https://github.com/NaffanDroo/tidy-python/issues/65)) ([08eca4b](https://github.com/NaffanDroo/tidy-python/commit/08eca4b71fae36d4bf9e409f689e72b0e883c5ac))
+
 ## [0.4.0](https://github.com/NaffanDroo/tidy-python/compare/v0.3.1...v0.4.0) (2022-12-23)
 
 
