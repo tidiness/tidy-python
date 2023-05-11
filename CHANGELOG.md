@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/NaffanDroo/tidy-python/compare/v0.5.0...v0.5.1) (2023-05-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mypy to v1.3.0 ([#56](https://github.com/NaffanDroo/tidy-python/issues/56)) ([9429b78](https://github.com/NaffanDroo/tidy-python/commit/9429b78f559b522085d349bdcea788f87a713bbe))
+
 ## [0.5.0](https://github.com/NaffanDroo/tidy-python/compare/v0.4.0...v0.5.0) (2023-05-07)
 
 
