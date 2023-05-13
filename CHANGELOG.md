@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.2](https://github.com/NaffanDroo/tidy-python/compare/v0.5.1...v0.5.2) (2023-05-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pytest-xdist to v3.3.0 ([#68](https://github.com/NaffanDroo/tidy-python/issues/68)) ([e17a9e5](https://github.com/NaffanDroo/tidy-python/commit/e17a9e5a08404f416ca4fa21ed98c23a7003dfce))
+
 ## [0.5.1](https://github.com/NaffanDroo/tidy-python/compare/v0.5.0...v0.5.1) (2023-05-11)
 
 
