@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.3](https://github.com/NaffanDroo/tidy-python/compare/v0.5.2...v0.5.3) (2023-05-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pre-commit to v3.3.2 ([#70](https://github.com/NaffanDroo/tidy-python/issues/70)) ([8b7f729](https://github.com/NaffanDroo/tidy-python/commit/8b7f7291d54035c9068cf6d404ae23eefcc43d47))
+* **deps:** update pre-commit hook pre-commit/pre-commit to v3.3.2 ([#71](https://github.com/NaffanDroo/tidy-python/issues/71)) ([e35909c](https://github.com/NaffanDroo/tidy-python/commit/e35909c00e2877a3c4f16f6796411a8affbe9fc2))
+
 ## [0.5.2](https://github.com/NaffanDroo/tidy-python/compare/v0.5.1...v0.5.2) (2023-05-13)
 
 
