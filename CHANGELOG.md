@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/NaffanDroo/tidy-python/compare/v0.5.4...v0.6.0) (2023-05-20)
+
+
+### Features
+
+* bump version of python to 3.11 ([#76](https://github.com/NaffanDroo/tidy-python/issues/76)) ([1e39694](https://github.com/NaffanDroo/tidy-python/commit/1e3969405a1debf866ecd34d975c933b7004fa04))
+
 ## [0.5.4](https://github.com/NaffanDroo/tidy-python/compare/v0.5.3...v0.5.4) (2023-05-20)
 
 
