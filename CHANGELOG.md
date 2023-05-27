@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/NaffanDroo/tidy-python/compare/v0.6.0...v0.6.1) (2023-05-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pytest-cov to v4.1.0 ([#78](https://github.com/NaffanDroo/tidy-python/issues/78)) ([fe11730](https://github.com/NaffanDroo/tidy-python/commit/fe117307738182b104c73c1aa662c878ee65b51f))
+
 ## [0.6.0](https://github.com/NaffanDroo/tidy-python/compare/v0.5.4...v0.6.0) (2023-05-20)
 
 
