@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.7.0](https://github.com/tidiness/tidy-python/compare/v0.6.1...v0.7.0) (2023-06-05)
+
+
+### Features
+
+* renovate auto merge ([#80](https://github.com/tidiness/tidy-python/issues/80)) ([f4dc039](https://github.com/tidiness/tidy-python/commit/f4dc039c3882f12b50e1374b33b8937c60e35e52))
+
+
+### Bug Fixes
+
+* correct json bracket closures ([37d2ddc](https://github.com/tidiness/tidy-python/commit/37d2ddcf25d0f63d3cd16fb1922b071b157900a8))
+
 ## [0.6.1](https://github.com/NaffanDroo/tidy-python/compare/v0.6.0...v0.6.1) (2023-05-27)
 
 
