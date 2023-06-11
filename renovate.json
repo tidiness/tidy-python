@@ -3,7 +3,8 @@
   "extends": [
     "config:base",
     ":enablePreCommit",
-    ":semanticCommitTypeAll(fix)"
+    ":semanticCommitTypeAll(fix)",
+    "group:all"
    ],
   "lockFileMaintenance": {
     "enabled": true,
