@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tidy-python"
-version = "0.7.0"
+version = "0.8.0"
 description = ""
 authors = ["Nathan Drew <1035229+NaffanDroo@users.noreply.github.com>"]
 license = "MIT"
