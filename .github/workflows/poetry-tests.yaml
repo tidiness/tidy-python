@@ -21,7 +21,7 @@ jobs:
       - name: Tests
         run: make -o pre-commit test
       - name: Get Coveraage
-        uses: orgoro/coverage@v3
+        uses: orgoro/coverage@v3.1
         with:
           coverageFile: .coverage.xml
           token: ${{ secrets.GITHUB_TOKEN }}
