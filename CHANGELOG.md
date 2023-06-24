@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.8.1](https://github.com/tidiness/tidy-python/compare/v0.8.0...v0.8.1) (2023-06-23)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#93](https://github.com/tidiness/tidy-python/issues/93)) ([80dc99b](https://github.com/tidiness/tidy-python/commit/80dc99b0e8299a106071254ca7cc37672c711971))
+* **deps:** update dependency mypy to v1.4.0 ([#97](https://github.com/tidiness/tidy-python/issues/97)) ([0686688](https://github.com/tidiness/tidy-python/commit/0686688d2611f0dc9ac12e139cb427bb1072858c))
+* **deps:** update dependency pytest to v7.4.0 ([#99](https://github.com/tidiness/tidy-python/issues/99)) ([0cc5ac7](https://github.com/tidiness/tidy-python/commit/0cc5ac79d2f1c32e054662c07d66f1d2d8916b8e))
+
 ## [0.8.0](https://github.com/tidiness/tidy-python/compare/v0.7.0...v0.8.0) (2023-06-11)
 
 
