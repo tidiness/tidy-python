@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.8.2](https://github.com/tidiness/tidy-python/compare/v0.8.1...v0.8.2) (2023-07-09)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#100](https://github.com/tidiness/tidy-python/issues/100)) ([72ca7fb](https://github.com/tidiness/tidy-python/commit/72ca7fb5563be50321377da248b9b35e8966f19c))
+* **deps:** update all dependencies ([#105](https://github.com/tidiness/tidy-python/issues/105)) ([71ff1fd](https://github.com/tidiness/tidy-python/commit/71ff1fdfef19775e874dd1d94d2f0e784a854967))
+* **deps:** update pre-commit hook asottile/pyupgrade to v3.9.0 ([#104](https://github.com/tidiness/tidy-python/issues/104)) ([b0a73c3](https://github.com/tidiness/tidy-python/commit/b0a73c363944e1f3aa33caf75dbbbcd68ad45dad))
+
 ## [0.8.1](https://github.com/tidiness/tidy-python/compare/v0.8.0...v0.8.1) (2023-06-23)
 
 
