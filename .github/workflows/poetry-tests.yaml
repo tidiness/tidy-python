@@ -25,7 +25,7 @@ jobs:
         run: make -o pre-commit test
       - name: Get Coveraage
         uses: orgoro/coverage@v3.1
-        continue-on-error: true
+        continue-on-error: false
         with:
           coverageFile: .coverage.xml
           token: ${{ secrets.GITHUB_TOKEN }}
