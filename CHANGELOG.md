@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.8.3](https://github.com/tidiness/tidy-python/compare/v0.8.2...v0.8.3) (2023-08-10)
+
+
+### Bug Fixes
+
+* correct permissions for coverage ([#111](https://github.com/tidiness/tidy-python/issues/111)) ([a482208](https://github.com/tidiness/tidy-python/commit/a48220839e453db1dc0a0b89da3c4d4e8770a738))
+* **deps:** update dependency mypy to v1.5.0 ([#112](https://github.com/tidiness/tidy-python/issues/112)) ([984fdb3](https://github.com/tidiness/tidy-python/commit/984fdb3842e54c11944f181447b7ebda9478eee4))
+* **deps:** update pre-commit hook asottile/pyupgrade to v3.10.1 ([#110](https://github.com/tidiness/tidy-python/issues/110)) ([d9fc094](https://github.com/tidiness/tidy-python/commit/d9fc09407eb807d513fb984ab60211a996ca8a96))
+* **deps:** update pre-commit hook psf/black to v23.7.0 ([#107](https://github.com/tidiness/tidy-python/issues/107)) ([9795aff](https://github.com/tidiness/tidy-python/commit/9795aff3c0d842d246dcc5862afac0723b8e23e0))
+
 ## [0.8.2](https://github.com/tidiness/tidy-python/compare/v0.8.1...v0.8.2) (2023-07-09)
 
 
