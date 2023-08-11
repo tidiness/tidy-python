@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.4](https://github.com/tidiness/tidy-python/compare/v0.8.3...v0.8.4) (2023-08-11)
+
+
+### Bug Fixes
+
+* **deps:** update pre-commit hook pre-commit/mirrors-mypy to v1.5.0 ([#114](https://github.com/tidiness/tidy-python/issues/114)) ([dd573ad](https://github.com/tidiness/tidy-python/commit/dd573ad9e5f06d9f2073f3480de793c26a0d130e))
+
 ## [0.8.3](https://github.com/tidiness/tidy-python/compare/v0.8.2...v0.8.3) (2023-08-10)
 
 
