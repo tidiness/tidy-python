@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.5](https://github.com/tidiness/tidy-python/compare/v0.8.4...v0.8.5) (2023-08-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mypy to v1.5.1 ([#117](https://github.com/tidiness/tidy-python/issues/117)) ([1d5cba0](https://github.com/tidiness/tidy-python/commit/1d5cba0bb14ab7a9472b96b2a2fd634b8d995b41))
+
 ## [0.8.4](https://github.com/tidiness/tidy-python/compare/v0.8.3...v0.8.4) (2023-08-11)
 
 
