@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.8.6](https://github.com/tidiness/tidy-python/compare/v0.8.5...v0.8.6) (2023-10-03)
+
+
+### Bug Fixes
+
+* bump poetry version ([#119](https://github.com/tidiness/tidy-python/issues/119)) ([a3f3ef1](https://github.com/tidiness/tidy-python/commit/a3f3ef15c3f61b9bb20b56373160d029fe363b74))
+* **deps:** lock file maintenance ([#123](https://github.com/tidiness/tidy-python/issues/123)) ([48fc6dc](https://github.com/tidiness/tidy-python/commit/48fc6dc4f68a99ccd0d50474e39fec1ae751f52e))
+* **deps:** update all dependencies ([#121](https://github.com/tidiness/tidy-python/issues/121)) ([8d98898](https://github.com/tidiness/tidy-python/commit/8d98898a733c2c69a7a49c82fec38673bc69f28b))
+* **deps:** update pre-commit hook asottile/pyupgrade to v3.14.0 ([#127](https://github.com/tidiness/tidy-python/issues/127)) ([150687b](https://github.com/tidiness/tidy-python/commit/150687be969fecfc49ce7f9baa4821bb65312c4f))
+
 ## [0.8.5](https://github.com/tidiness/tidy-python/compare/v0.8.4...v0.8.5) (2023-08-16)
 
 
