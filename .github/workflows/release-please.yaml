@@ -18,7 +18,7 @@ jobs:
           application_private_key: ${{ secrets.APPLICATION_PRIVATE_KEY }}
 
       - name: Release please!
-        uses: google-github-actions/release-please-action@v3
+        uses: google-github-actions/release-please-action@v4
         env:
           APP_TOKEN: ${{ steps.get_workflow_token.outputs.token }}
         with:
