@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.7](https://github.com/tidiness/tidy-python/compare/v0.8.6...v0.8.7) (2023-12-12)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#128](https://github.com/tidiness/tidy-python/issues/128)) ([c76f4cc](https://github.com/tidiness/tidy-python/commit/c76f4cc3da8727784ab8d45c965cf998488e7105))
+
 ## [0.8.6](https://github.com/tidiness/tidy-python/compare/v0.8.5...v0.8.6) (2023-10-03)
 
 
