@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.9.0](https://github.com/tidiness/tidy-python/compare/v0.8.8...v0.9.0) (2024-03-20)
+
+
+### Features
+
+* poetry 1.8.2 tests ([#122](https://github.com/tidiness/tidy-python/issues/122)) ([e601659](https://github.com/tidiness/tidy-python/commit/e601659d76a5ab02d4206e80000d9bd56f70ed7b))
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([#129](https://github.com/tidiness/tidy-python/issues/129)) ([ea3defc](https://github.com/tidiness/tidy-python/commit/ea3defcc284206a88c2e471d671e244a4e196edf))
+* **deps:** update all dependencies ([#142](https://github.com/tidiness/tidy-python/issues/142)) ([1f9c80a](https://github.com/tidiness/tidy-python/commit/1f9c80a76a93a1c01ae23721ebf29cbf2dfce658))
+* **deps:** update all dependencies ([#144](https://github.com/tidiness/tidy-python/issues/144)) ([37b9e56](https://github.com/tidiness/tidy-python/commit/37b9e5651d51845a224376abf17d883898365dc1))
+
 ## [0.8.8](https://github.com/tidiness/tidy-python/compare/v0.8.7...v0.8.8) (2024-01-18)
 
 
