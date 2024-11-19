@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.9.1](https://github.com/tidiness/tidy-python/compare/v0.9.0...v0.9.1) (2024-11-19)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#145](https://github.com/tidiness/tidy-python/issues/145)) ([7812e02](https://github.com/tidiness/tidy-python/commit/7812e021010cec80fbd2b86bb9445c22c078a335))
+* **deps:** update all dependencies ([#150](https://github.com/tidiness/tidy-python/issues/150)) ([5f3c94f](https://github.com/tidiness/tidy-python/commit/5f3c94fad439f9fb6b3ec56e01af24df0d5f08ae))
+
 ## [0.9.0](https://github.com/tidiness/tidy-python/compare/v0.8.8...v0.9.0) (2024-03-20)
 
 
