@@ -1,4 +1,4 @@
-.PHONY: deps pre-commit test
+.PHONY: deps pre-commit test customize_template
 
 
 deps:
@@ -8,6 +8,10 @@ deps:
 pre-commit: deps
 	@echo "=== Setting up pre-commit ==="
 	poetry run pre-commit install
+
+customize_template:
+	@read -p "Enter the new package name: " new_package_name; \
+	./customize_template_repo.py $$new_package_name
 
 test: deps pre-commit
 	@echo "=== Running pytest ==="
