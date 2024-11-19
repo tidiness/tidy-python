@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.2](https://github.com/tidiness/tidy-python/compare/v0.9.1...v0.9.2) (2024-11-19)
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([#146](https://github.com/tidiness/tidy-python/issues/146)) ([e6f0105](https://github.com/tidiness/tidy-python/commit/e6f0105ce9a039281bb75c1c54dab5cafa276fc9))
+
 ## [0.9.1](https://github.com/tidiness/tidy-python/compare/v0.9.0...v0.9.1) (2024-11-19)
 
 
