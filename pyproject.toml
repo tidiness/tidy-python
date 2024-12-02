@@ -10,7 +10,7 @@ python = "^3.11"
 pytest-cov = "^6.0.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^8.0.0"
+pytest = "^8.3.4"
 pytest-bdd = "^8.0.0"
 pytest-xdist = "^3.2.0"
 pre-commit = "^4.0.0"
