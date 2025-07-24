@@ -9,7 +9,7 @@ license = "MIT"
 python = "^3.11"
 pytest-cov = "^6.0.0"
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
 pytest-bdd = "^8.1.0"
 pytest-xdist = "^3.2.0"
