@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.9.3](https://github.com/tidiness/tidy-python/compare/v0.9.2...v0.9.3) (2025-07-24)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#168](https://github.com/tidiness/tidy-python/issues/168)) ([0f72f56](https://github.com/tidiness/tidy-python/commit/0f72f56882d3c9224cbe26e59fe75fcf3685591e))
+* **workflow:** update release-please action to use googleapis namespace ([#170](https://github.com/tidiness/tidy-python/issues/170)) ([1e273a5](https://github.com/tidiness/tidy-python/commit/1e273a5d268579a534cfa40a74bfcdc7fc1b4210))
+
 ## [0.9.2](https://github.com/tidiness/tidy-python/compare/v0.9.1...v0.9.2) (2024-11-19)
 
 
