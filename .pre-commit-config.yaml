@@ -53,7 +53,7 @@ repos:
         exclude: '^(install|get)-poetry.py$'
 
   - repo: https://github.com/pycqa/isort
-    rev: 8.0.0
+    rev: 8.0.1
     hooks:
       - id: isort
         name: "isort (python)"
@@ -64,7 +64,7 @@ repos:
         args: [--lines-after-imports, "-1"]
 
   - repo: https://github.com/psf/black
-    rev: 26.1.0
+    rev: 26.3.0
     hooks:
       - id: black
 
