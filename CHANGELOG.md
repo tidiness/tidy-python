@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.10.0](https://github.com/tidiness/tidy-python/compare/v0.9.3...v0.10.0) (2026-03-11)
+
+
+### Features
+
+* **makefile:** add reset-version target to reset version numbers to 0.0.1 ([#174](https://github.com/tidiness/tidy-python/issues/174)) ([0364303](https://github.com/tidiness/tidy-python/commit/036430386fa0c192457654c33b0536abc94fd9ea))
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([#176](https://github.com/tidiness/tidy-python/issues/176)) ([e51da00](https://github.com/tidiness/tidy-python/commit/e51da0068967aa2a0f8f2e3cbcba1b674b291a03))
+* **deps:** update all dependencies ([#177](https://github.com/tidiness/tidy-python/issues/177)) ([5460faf](https://github.com/tidiness/tidy-python/commit/5460faf2ceeedb8261bc594b20d6f91be46f7f7f))
+* **deps:** update all dependencies ([#195](https://github.com/tidiness/tidy-python/issues/195)) ([d95d87b](https://github.com/tidiness/tidy-python/commit/d95d87b78613bf87c4f99d2632494492a433ea8d))
+
 ## [0.9.3](https://github.com/tidiness/tidy-python/compare/v0.9.2...v0.9.3) (2025-07-24)
 
 
