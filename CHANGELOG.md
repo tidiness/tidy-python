@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.3](https://github.com/tidiness/tidy-python/compare/v0.10.2...v0.10.3) (2026-07-01)
+
+
+### Bug Fixes
+
+* make reset-version portable across BSD and GNU sed ([#211](https://github.com/tidiness/tidy-python/issues/211)) ([096b2f6](https://github.com/tidiness/tidy-python/commit/096b2f6ed3cc62d2f588bcb745cf89e4b06f0f04))
+
 ## [0.10.2](https://github.com/tidiness/tidy-python/compare/v0.10.1...v0.10.2) (2026-07-01)
 
 
