@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.10.4](https://github.com/tidiness/tidy-python/compare/v0.10.3...v0.10.4) (2026-08-15)
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([#213](https://github.com/tidiness/tidy-python/issues/213)) ([780af0b](https://github.com/tidiness/tidy-python/commit/780af0b81f3a9c41b89d5859d7c239504933d69c))
+* **deps:** update all dependencies ([#214](https://github.com/tidiness/tidy-python/issues/214)) ([05d3003](https://github.com/tidiness/tidy-python/commit/05d30037c4b036b68cd0d4116d93df657e291df2))
+
 ## [0.10.3](https://github.com/tidiness/tidy-python/compare/v0.10.2...v0.10.3) (2026-07-01)
 
 
