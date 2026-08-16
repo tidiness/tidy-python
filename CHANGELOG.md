@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.5](https://github.com/tidiness/tidy-python/compare/v0.10.4...v0.10.5) (2026-08-16)
+
+
+### Bug Fixes
+
+* Move pytest-cov to dev dependencies ([#219](https://github.com/tidiness/tidy-python/issues/219)) ([975bc05](https://github.com/tidiness/tidy-python/commit/975bc052f8a43a5ff7e6d0c53c0b5d273ce91525))
+
 ## [0.10.4](https://github.com/tidiness/tidy-python/compare/v0.10.3...v0.10.4) (2026-08-15)
 
 
