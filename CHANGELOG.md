@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.10.6](https://github.com/tidiness/tidy-python/compare/v0.10.5...v0.10.6) (2026-10-31)
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([#221](https://github.com/tidiness/tidy-python/issues/221)) ([b77e446](https://github.com/tidiness/tidy-python/commit/b77e446eb72fa3849c82e67b21373f9dac55abc7))
+* **deps:** update all dependencies ([#222](https://github.com/tidiness/tidy-python/issues/222)) ([9c7e267](https://github.com/tidiness/tidy-python/commit/9c7e26752d97ee6298f23b3c30c9c0ea39f95779))
+* **deps:** update dependency pytest-bdd to v9.0.1 ([#228](https://github.com/tidiness/tidy-python/issues/228)) ([71e7ced](https://github.com/tidiness/tidy-python/commit/71e7ced57d0278ff29ec86c32cd24e93a38a6add))
+
 ## [0.10.5](https://github.com/tidiness/tidy-python/compare/v0.10.4...v0.10.5) (2026-08-16)
 
 
